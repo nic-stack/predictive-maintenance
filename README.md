@@ -20,7 +20,7 @@ Clone the repository and install dependencies:
 bash
 Copy
 Edit
-git clone https://github.com/your-username/predictive-maintenance.git
+git clone https://github.com/nic-stack/predictive-maintenance.git
 cd predictive-maintenance
 pip install -r requirements.txt
 Usage
